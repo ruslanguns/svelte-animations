@@ -55,4 +55,9 @@
     flex: 1;
     padding: 1em;
   }
+
+  @media (max-width: 600px) {
+    .contedor-general {
+      margin: 0 1em;
+    }
 </style>
